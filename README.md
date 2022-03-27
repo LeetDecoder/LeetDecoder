@@ -3,9 +3,9 @@
 Here are some informations about me`
 
 *Social Media:*
-[Instagram](https://www.instagram.com/leetdecoder905/)
-[Twitter](https://twitter.com/leet_decoder)
-[Discord Server](https://discord.gg/6NEndn2Wjw)
+[Instagram](https://www.instagram.com/leetdecoder905/),
+[Twitter](https://twitter.com/leet_decoder),
+[DiscordServer](https://discord.gg/6NEndn2Wjw),
 Discord: Yamz#3333
 
 *Languages*
